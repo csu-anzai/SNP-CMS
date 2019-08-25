@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.421
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SNP.CMS.WebController", "..\SNP-CMS.WebController\SNP.CMS.WebController\SNP.CMS.WebController.csproj", "{FFEEC692-2C94-4989-9D4D-E9524A286AEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SNP.CMS.IdentityServer", "..\TCIS.OPS.Common\src\SNP.CMS.IdentityServer\SNP.CMS.IdentityServer.csproj", "{54FCF1E2-C367-40C9-B3A0-68D3797D924C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{FFEEC692-2C94-4989-9D4D-E9524A286AEF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FFEEC692-2C94-4989-9D4D-E9524A286AEF}.Release|x86.ActiveCfg = Release|x86
 		{FFEEC692-2C94-4989-9D4D-E9524A286AEF}.Release|x86.Build.0 = Release|x86
+		{54FCF1E2-C367-40C9-B3A0-68D3797D924C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FCF1E2-C367-40C9-B3A0-68D3797D924C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FCF1E2-C367-40C9-B3A0-68D3797D924C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{54FCF1E2-C367-40C9-B3A0-68D3797D924C}.Debug|x86.Build.0 = Debug|Any CPU
+		{54FCF1E2-C367-40C9-B3A0-68D3797D924C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FCF1E2-C367-40C9-B3A0-68D3797D924C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54FCF1E2-C367-40C9-B3A0-68D3797D924C}.Release|x86.ActiveCfg = Release|Any CPU
+		{54FCF1E2-C367-40C9-B3A0-68D3797D924C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
