@@ -1,0 +1,2 @@
+- Add feauture iis trong role and feautures
+- Cài .NET SDK dotnet-sdk-2.2.100-win-x64.exe
